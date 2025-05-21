@@ -85,6 +85,9 @@ main form span{
 }
 
 footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
     margin-top: 150px;
     text-align: center;
     width: 100%;
